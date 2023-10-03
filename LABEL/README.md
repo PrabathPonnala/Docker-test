@@ -1,0 +1,2 @@
+# LABEL
+Label instruction is used to give some metadata information. Labels and tags both are same. Labels are key value pairs. It is useful to filter the info from the lot of records in docker like images.
